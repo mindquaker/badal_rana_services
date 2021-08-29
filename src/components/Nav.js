@@ -2,9 +2,12 @@
 import React from "react";
 export const Nav = () => {
   const style =
-    "p-3 text-black-200 hover:text-indigo-400  cursor-pointer hover:shadow-md transition ease-in duration-150 ";
+    "p-3 text-black-200 hover:text-indigo-400  cursor-pointer hover:shadow-md transition ease-in duration-150  ";
   return (
-    <div className='bg-blue-500   w-1/2 m-auto mt-2   rounded-xl shadow-lg '>
+    <div
+      className='bg-blue-500   w-1/2 m-auto mt-2   rounded-xl shadow-lg
+      iphoneX:w-72
+     '>
       <navbar>
         <nav className='h-12  w-full space-x-7 flex flex-row items-center justify-left'>
           <a
