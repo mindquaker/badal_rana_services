@@ -11,7 +11,7 @@ export const Nav = () => {
       <navbar>
         <nav className='h-12  w-full space-x-7 flex flex-row items-center justify-left'>
           <a
-            href='#'
+            href='#home'
             className='p-3 text-black-200 hover:text-indigo-400  cursor-pointer hover:shadow-md transition ease-in duration-150'>
             Home
           </a>
