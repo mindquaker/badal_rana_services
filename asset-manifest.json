@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/badal_rana_services/static/css/main.ea6d07a9.chunk.css",
-    "main.js": "/badal_rana_services/static/js/main.6b936909.chunk.js",
-    "main.js.map": "/badal_rana_services/static/js/main.6b936909.chunk.js.map",
-    "runtime-main.js": "/badal_rana_services/static/js/runtime-main.ce7e69cb.js",
-    "runtime-main.js.map": "/badal_rana_services/static/js/runtime-main.ce7e69cb.js.map",
-    "static/js/2.e25ab72a.chunk.js": "/badal_rana_services/static/js/2.e25ab72a.chunk.js",
-    "static/js/2.e25ab72a.chunk.js.map": "/badal_rana_services/static/js/2.e25ab72a.chunk.js.map",
-    "static/js/3.5cb00f10.chunk.js": "/badal_rana_services/static/js/3.5cb00f10.chunk.js",
-    "static/js/3.5cb00f10.chunk.js.map": "/badal_rana_services/static/js/3.5cb00f10.chunk.js.map",
+    "main.css": "/badal_rana_services/static/css/main.adf5e091.chunk.css",
+    "main.js": "/badal_rana_services/static/js/main.79ecc608.chunk.js",
+    "main.js.map": "/badal_rana_services/static/js/main.79ecc608.chunk.js.map",
+    "runtime-main.js": "/badal_rana_services/static/js/runtime-main.f632cc67.js",
+    "runtime-main.js.map": "/badal_rana_services/static/js/runtime-main.f632cc67.js.map",
+    "static/js/2.7fa36c78.chunk.js": "/badal_rana_services/static/js/2.7fa36c78.chunk.js",
+    "static/js/2.7fa36c78.chunk.js.map": "/badal_rana_services/static/js/2.7fa36c78.chunk.js.map",
+    "static/js/3.1f52de9e.chunk.js": "/badal_rana_services/static/js/3.1f52de9e.chunk.js",
+    "static/js/3.1f52de9e.chunk.js.map": "/badal_rana_services/static/js/3.1f52de9e.chunk.js.map",
     "index.html": "/badal_rana_services/index.html",
-    "static/css/main.ea6d07a9.chunk.css.map": "/badal_rana_services/static/css/main.ea6d07a9.chunk.css.map",
-    "static/js/2.e25ab72a.chunk.js.LICENSE.txt": "/badal_rana_services/static/js/2.e25ab72a.chunk.js.LICENSE.txt",
+    "static/css/main.adf5e091.chunk.css.map": "/badal_rana_services/static/css/main.adf5e091.chunk.css.map",
+    "static/js/2.7fa36c78.chunk.js.LICENSE.txt": "/badal_rana_services/static/js/2.7fa36c78.chunk.js.LICENSE.txt",
     "static/media/legalDoc.3ad775ab.jpg": "/badal_rana_services/static/media/legalDoc.3ad775ab.jpg",
     "static/media/notery.5c47ad50.png": "/badal_rana_services/static/media/notery.5c47ad50.png",
     "static/media/passport_ticket.07635f63.jpg": "/badal_rana_services/static/media/passport_ticket.07635f63.jpg",
@@ -22,9 +22,9 @@
     "static/media/visa.fc53b2df.png": "/badal_rana_services/static/media/visa.fc53b2df.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ce7e69cb.js",
-    "static/js/2.e25ab72a.chunk.js",
-    "static/css/main.ea6d07a9.chunk.css",
-    "static/js/main.6b936909.chunk.js"
+    "static/js/runtime-main.f632cc67.js",
+    "static/js/2.7fa36c78.chunk.js",
+    "static/css/main.adf5e091.chunk.css",
+    "static/js/main.79ecc608.chunk.js"
   ]
 }
